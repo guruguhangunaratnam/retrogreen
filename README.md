@@ -5,7 +5,7 @@
 
 # Retro Green Colorscheme for NVIM
 
-A retro green color palette for nvim. Integrates with nvim-tree and other plugins. Based on the poimandres color scheme plugin.
+A retro green color palette for nvim. Integrates with nvim-tree and other plugins.
 
 ## Installation
 
